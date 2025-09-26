@@ -18,9 +18,9 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "vercel": "^32.0.0"
+    "vercel": "^35.0.0"
   },
   "engines": {
-    "node": "18.x"
+    "node": "22.x"
   }
 }
